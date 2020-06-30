@@ -16,19 +16,18 @@ As cloud computing is more and more important in current software deployment, th
   * [PubSub Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Pubsub_totorial.ipynb)
   
  
-	### AI platform
- 	* [AI platform training Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Ai_platform_training_with_sklearn.ipynb)
- 	* [AI platform predictor Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Ai_platform_predictor_process.ipynb)
- 	* [AI platform otpimizer Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Ai_platform_optimizer.ipynb)
+  ### AI platform
+  * [AI platform training Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Ai_platform_training_with_sklearn.ipynb)
+  * [AI platform predictor Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Ai_platform_predictor_process.ipynb)
+  * [AI platform otpimizer Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Ai_platform_optimizer.ipynb)
  	
  	
- 	### DevOps
- 	* [CI/CD tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Cloud_CICD_tutorial.ipynb)
- 	
- 	
- 	### TODOS:
- 	I will try to update this series of tutorials as possible.
+  ### DevOps
+  * [CI/CD tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Cloud_CICD_tutorial.ipynb)
 
+
+  ### TODOS:
+  There are many to be added.
 
 Learning is not one day work, but a continious process, I would try to add as more as possible tutorials about **GCP** during my learning path. 
 
