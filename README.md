@@ -25,6 +25,11 @@ As cloud computing is more and more important in current software deployment, th
  	
   ### DevOps
   * [CI/CD tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Cloud_CICD_tutorial.ipynb)
+  * [Kubernetes and Docker tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/GCP_Kubernetes_tutorial.ipynb)
+
+  
+  ### Others
+  * [Composer for schedule tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/GCP_Composer_tutorial.ipynb)
 
 
   ### TODOS:
