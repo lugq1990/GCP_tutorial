@@ -1,5 +1,5 @@
 # GCP tutorial
-As cloud computing is more and more important in current software deployment, there are some big Cloud provider, **GCP** is one of them. This repository contains some notebooks to explain how to use **GCP** products for tutorial, as there are many products I just focus on some could be explained by **code** or **command line**. Also I have added as more clear comments as possible try to add my understanding.
+As cloud computing is more and more important in current software development, there are some big Cloud provider, **GCP** is one of them. This repository contains some notebooks to explain how to use **GCP** products with **Python**, as there are many products I just focus on some could be explained by **code** or **command line**. Also I have added some comments to add my understanding and tips.
 
 
 ## Tutorial Lists
@@ -37,4 +37,4 @@ As cloud computing is more and more important in current software deployment, th
 
 Learning is not one day work, but a continious process, I would try to add as more as possible tutorials about **GCP** during my learning path. 
 
-LOVE to hear suggestions. Hope you will learn some from this series of tutorial.
+Love to hear suggestions, hope you will learn something from here.
