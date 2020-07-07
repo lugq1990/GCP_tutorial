@@ -14,6 +14,7 @@ As cloud computing is more and more important in current software development, t
   * [Dataproc Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Dataproc_with_bigquery.ipynb)
   * [DataFlow Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Data_flow_tutorial.ipynb)
   * [PubSub Tutorial](https://github.com/lugq1990/GCP_tutorial/blob/master/Pubsub_totorial.ipynb)
+  * [Dataproc with Bigquery](https://github.com/lugq1990/GCP_tutorial/blob/master/DataProc_with_bigquery.ipynb)
   
  
   ### AI platform
