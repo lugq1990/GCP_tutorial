@@ -1,3 +1,10 @@
+// There are some command that we would use most is:
+// 1. terrarform init(init cloud provider);
+// 2. terraform refresh(Tf view => real world)
+// 3. terraform plan (real world => desired world)
+// 4. terraform apply (desired world => real world)
+// 5. terraform destroy (delete resources)
+
 // for windows terraform error: https://github.com/terraform-providers/terraform-provider-google/issues/4856#issuecomment-566159527
 // set GOOGLE_PROJECT=cloudtutorial-282707
 
